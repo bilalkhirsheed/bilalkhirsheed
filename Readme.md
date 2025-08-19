@@ -2,6 +2,7 @@ Welcome to My GitHub Profile!
 
 Hi there! I'm Bilal Khurshid, an AI Engineer and Full-Stack Web Developer (MERN) passionate about building intelligent systems and scalable web applications.  
 I love turning ideas into practical solutions using Machine Learning, AI, and Modern Web Technologies**. My focus is on creating efficient, innovative, and impactful projects that make a difference.  
+![Alt text](assets/profile.png)
 
 
 ## 🚀 Skills & Technologies  
