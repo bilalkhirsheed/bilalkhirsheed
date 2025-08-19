@@ -37,6 +37,13 @@ I love turning ideas into practical solutions using Machine Learning, AI, and Mo
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 
+## 💼 Experience  
+
+**AI Engineer** | **FAST University**  
+*October 2022 - Present*  
+
+- **Developed and deployed** machine learning models for various applications.  
+- **Collaborated** with cross-functional teams to enhance project outcomes.  
 
 
 ## 🎓 Certifications
@@ -44,24 +51,24 @@ I love turning ideas into practical solutions using Machine Learning, AI, and Mo
 ### 1) **Machine Learning – Simplilearn**
 *Hands-on foundations in supervised/unsupervised learning, model evaluation, and real-world ML pipelines.*
 <p align="center">
-  <img src="assets/bySimplilearn.jpg" alt="Simplilearn Machine Learning Certificate" width="600" />
+  <img src="assests/bySimplilearn.jpg" alt="Simplilearn Machine Learning Certificate" width="600" />
 </p>
 
 ### 2) **JavaScript – KG CODING**
 *Modern JavaScript essentials: ES6+, DOM, async programming, and practical project patterns.*
 <p align="center">
-  <img src="assets/javaScriptCertificate.png" alt="KG CODING JavaScript Certificate" width="600" />
+  <img src="assests/javaScriptCertificate.png" alt="KG CODING JavaScript Certificate" width="600" />
 </p>
 
 ### 3) **Machine Learning & AI – Google Cloud**
 *Building, training, and deploying ML/AI workloads on Google Cloud with scalable MLOps practices.*
 <p align="center">
-  <img src="assets/googleCloudCertificate.png" alt="Google Cloud Machine Learning & AI Certificate" width="600" />
+  <img src="assests/googleCloudCertificate.png" alt="Google Cloud Machine Learning & AI Certificate" width="600" />
 </p>
 
 ### 4) **Python – Great Learning**
 *Python for data analysis and automation: core syntax, libraries, and problem-solving patterns.*
 <p align="center">
-  <img src="assets/PythoncertifcatefromGreatLearnig.jpg" alt="Great Learning Python Certificate" width="600" />
+  <img src="assests/PythoncertifcatefromGreatLearnig.jpg" alt="Great Learning Python Certificate" width="600" />
 </p>
 
