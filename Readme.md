@@ -69,6 +69,6 @@ I love turning ideas into practical solutions using Machine Learning, AI, and Mo
 ### 4) **Python – Great Learning**
 *Python for data analysis and automation: core syntax, libraries, and problem-solving patterns.*
 <p align="center">
-  <img src="assests/PythoncertifcatefromGreatLearnig.jpg" alt="Great Learning Python Certificate" width="600" />
+  <img src="assests/PythoncertifcatefromGreatLearnig.png" alt="Great Learning Python Certificate" width="600" />
 </p>
 
