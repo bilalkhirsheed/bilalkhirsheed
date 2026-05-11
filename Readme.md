@@ -144,14 +144,7 @@ My primary focus is on:
 
 ---
 
-# 📫 Connect With Me
 
-- LinkedIn  
-- GitHub  
-- Fiverr  
-- Upwork  
-
----
 
 <p align="center">
   <b>Building scalable software, intelligent AI systems, and powerful automations.</b>
