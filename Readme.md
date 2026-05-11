@@ -11,9 +11,6 @@ My primary focus is on:
 - AI-Powered Applications & RAG Systems  
 - Backend APIs, Scraping & System Integrations  
 
-<p align="center">
-  <img src="assests/AIImage.jpeg" width="500" />
-</p>
 
 ---
 
